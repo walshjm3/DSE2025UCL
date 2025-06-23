@@ -21,8 +21,8 @@ The repo is organized primarily by lecturers even when they give multiple lectur
 .                   | 02 | | | |
 .                   | 05 | | | |
 .                   | 10 | | | |
-03_Schjerning_nfxp  | 03 | | | |
-04_Iskhakov_egm     | 04 | | | |
+03_Schjerning_nfxp  | 03 | + | | + |
+04_Iskhakov_egm     | 04 | + | | + |
 06_Aguirregabiria   | 06 | | | |
 .                   | 07 | | | |
 .                   | 16 | | | |

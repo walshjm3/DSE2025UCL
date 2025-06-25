@@ -26,7 +26,7 @@ The repo is organized primarily by lecturers even when they give multiple lectur
 06_Aguirregabiria   | 06 | + | + | |
 .                   | 07 | + | + | |
 .                   | 16 | + | + | |
-08_Rust_ml          | 08 | | | |
+08_Rust_ml          | 08 | + | | |
 09_Attanasio        | 09 | | | |
 11_Maurel           | 11 | | | |
 12_Tincani          | 12 | | | |
@@ -36,4 +36,4 @@ The repo is organized primarily by lecturers even when they give multiple lectur
 17_Schjerning_games | 17 | + | | |
 18_Iskhakov_games   | 18 | + | | + |
 .                   | 19 | + | | + |
-20_Rust_auctions    | 20 | | | |
+20_Rust_auctions    | 20 | + | | |

@@ -28,7 +28,7 @@ The repo is organized primarily by lecturers even when they give multiple lectur
 .                   | 16 | + | + | |
 08_Rust_ml          | 08 | + | | |
 09_Attanasio        | 09 | | | |
-11_Maurel           | 11 | | | |
+11_Maurel           | 11 | + | + | |
 12_Tincani          | 12 | + | | |
 13_Bonhomme         | 13 | | | |
 14_Bresser          | 14 | | | |

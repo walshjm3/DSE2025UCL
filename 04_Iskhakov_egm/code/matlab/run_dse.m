@@ -43,11 +43,9 @@ end
 if 0
   m.df=1/(1+m.r);
   m.sigma=0;
-  m.init=[30 35];
+  m.init=[25 30];
   m.nsims=2;
   % m.solve_egm;
-  % m.sim;
-  % m.plot('sim consumption');
   m.solve_vfi;
   m.sim;
   m.plot('sim consumption');
@@ -60,7 +58,6 @@ if 0
   m.solve_egm(true);
   m.plot('solution');
   m.plot('value');
-
 end
 
 

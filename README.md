@@ -32,7 +32,7 @@ The repo is organized primarily by lecturers even when they give multiple lectur
 12_Tincani          | 12 | + | | |
 13_Bonhomme         | 13 | | | |
 14_Bresser          | 14 | | | |
-15_Pakes            | 15 | | + | |
+15_Pakes            | 15 | | | |
 17_Schjerning_games | 17 | + | | |
 18_Iskhakov_games   | 18 | + | | + |
 .                   | 19 | + | | + |

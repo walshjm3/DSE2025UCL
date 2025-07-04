@@ -36,4 +36,4 @@ The repo is organized primarily by lecturers even when they give multiple lectur
 17_Schjerning_games | 17 | + | + | + |
 18_Iskhakov_games   | 18 | + | + | + |
 .                   | 19 | + | + | + |
-20_Rust_auctions    | 20 | + | | |
+20_Rust_rational    | 20 | + | | |
